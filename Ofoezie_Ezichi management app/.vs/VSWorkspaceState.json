@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolManagementApp.BL",
+    "\\SchoolManagementApp.DataStore",
+    "\\SchoolManagementApp.DataStore\\Repositories",
+    "\\SchoolManagementApp.Models"
+  ],
+  "SelectedNode": "\\SchoolManagementApp.Models\\StudentClass.cs",
+  "PreviewInSolutionExplorer": false
+}

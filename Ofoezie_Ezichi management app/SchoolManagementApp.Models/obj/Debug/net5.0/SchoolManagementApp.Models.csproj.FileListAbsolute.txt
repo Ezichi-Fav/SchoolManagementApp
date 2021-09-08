@@ -1,0 +1,5 @@
+C:\Users\ofoezie ezichi fav\Desktop\management app\SchoolManagementApp.Models\obj\Debug\net5.0\SchoolManagementApp.Models.csproj.AssemblyReference.cache
+C:\Users\ofoezie ezichi fav\Desktop\management app\SchoolManagementApp.Models\obj\Debug\net5.0\SchoolManagementApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofoezie ezichi fav\Desktop\management app\SchoolManagementApp.Models\obj\Debug\net5.0\SchoolManagementApp.Models.AssemblyInfoInputs.cache
+C:\Users\ofoezie ezichi fav\Desktop\management app\SchoolManagementApp.Models\obj\Debug\net5.0\SchoolManagementApp.Models.AssemblyInfo.cs
+C:\Users\ofoezie ezichi fav\Desktop\management app\SchoolManagementApp.Models\obj\Debug\net5.0\SchoolManagementApp.Models.csproj.CoreCompileInputs.cache
